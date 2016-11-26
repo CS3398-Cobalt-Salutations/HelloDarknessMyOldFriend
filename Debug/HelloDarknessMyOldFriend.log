@@ -1,0 +1,16 @@
+﻿  main.cpp
+  MoneyTest.cpp
+  Generating Code...
+  HelloDarknessMyOldFriend.vcxproj -> C:\Users\dlohr\OneDrive\Documents\HelloDarknessMyOldFriend\Debug\HelloDarknessMyOldFriend.exe
+  HelloDarknessMyOldFriend.vcxproj -> C:\Users\dlohr\OneDrive\Documents\HelloDarknessMyOldFriend\Debug\HelloDarknessMyOldFriend.pdb (Full PDB)
+  .....F
+  
+c:\users\dlohr\onedrive\documents\hellodarknessmyoldfriend\moneytest.cpp(81): error : Assertion
+  Test name: MoneyTest::thisTestWillFail
+  forced failure
+  - I told you this test would fail
+  
+  Failures !!!
+  Run: 5   Failure total: 1   Failures: 1   Errors: 0
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(133,5): error MSB3073: The command "C:\Users\dlohr\OneDrive\Documents\HelloDarknessMyOldFriend\Debug\HelloDarknessMyOldFriend.exe
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(133,5): error MSB3073: :VCEnd" exited with code 1.

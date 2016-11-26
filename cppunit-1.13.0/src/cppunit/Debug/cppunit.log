@@ -1,0 +1,56 @@
+﻿  XmlOutputterHook.cpp
+  XmlOutputter.cpp
+  XmlElement.cpp
+  XmlDocument.cpp
+  Win32DynamicLibraryManager.cpp
+  UnixDynamicLibraryManager.cpp
+  TypeInfoHelper.cpp
+  TextTestRunner.cpp
+  TextTestResult.cpp
+  TextTestProgressListener.cpp
+  TextOutputter.cpp
+  TestSuiteBuilderContext.cpp
+  TestSuite.cpp
+  TestSuccessListener.cpp
+  TestSetUp.cpp
+  TestRunner.cpp
+  TestResultCollector.cpp
+  TestResult.cpp
+  TestPlugInDefaultImpl.cpp
+  TestPath.cpp
+  Generating Code...
+  Compiling...
+  TestNamer.cpp
+  TestLeaf.cpp
+  TestFailure.cpp
+  TestFactoryRegistry.cpp
+  TestDecorator.cpp
+  TestComposite.cpp
+  TestCaseDecorator.cpp
+  TestCase.cpp
+  TestAssert.cpp
+  Test.cpp
+  SynchronizedObject.cpp
+  StringTools.cpp
+  SourceLine.cpp
+  ShlDynamicLibraryManager.cpp
+  RepeatedTest.cpp
+  ProtectorChain.cpp
+  Protector.cpp
+  PlugInParameters.cpp
+  PlugInManager.cpp
+  Message.cpp
+  Generating Code...
+  Compiling...
+  Exception.cpp
+  DynamicLibraryManagerException.cpp
+  DynamicLibraryManager.cpp
+  DefaultProtector.cpp
+  CompilerOutputter.cpp
+  BriefTestProgressListener.cpp
+  BeOsDynamicLibraryManager.cpp
+  Asserter.cpp
+  AdditionalMessage.cpp
+  Generating Code...
+  cppunit.vcxproj -> C:\Users\dlohr\Downloads\cppunit-1.13.0\src\cppunit\.\Debug\cppunit.lib
+          1 file(s) copied.
